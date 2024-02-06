@@ -1,0 +1,2 @@
+Visão Geral:
+Este projeto consiste em uma integração eficiente com a API gratuita do Gemini da Google. O front end foi construído utilizando FlutterFlow, enquanto o back end, desenvolvido em Node.js, está hospedado no Firebase Cloud Functions. A função na nuvem é acionada por meio de um evento HTTPS com o método GET, proporcionando a praticidade do FlutterFlow combinada com a escalabilidade de um serviço serverless do Google.
